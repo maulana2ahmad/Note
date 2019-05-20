@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorCyclamen">#ED72A6</color>
+    <color name="colorShandy">#FFE676</color>
+    <color name="colorLemonChiffon">#FFFBC6</color>
+    <color name="colorPaleRobinEggBlue">#96E7CE</color>
+    <color name="colorMediumTurquoise">#57D1C9</color>
+</resources>
